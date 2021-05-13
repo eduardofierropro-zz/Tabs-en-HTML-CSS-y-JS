@@ -5,7 +5,7 @@ No ha sido probado para tener soporte crossbrowsing.
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## URL para ver el resultado
-Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/Google-Stadia/](https://eduardofierropro.github.io/Google-Stadia/)
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/](https://eduardofierropro.github.io/Tabs-en-HTML-CSS-y-JS/)
 
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [https://www.youtube.com/watch?v=NXOU1L3nn9Q](https://www.youtube.com/watch?v=NXOU1L3nn9Q)
