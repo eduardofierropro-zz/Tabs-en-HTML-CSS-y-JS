@@ -15,7 +15,7 @@ Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el víde
 Es un código programado en directo para entretenimiento.
 
 ## Vídeos relacionados en Youtube 🛠️
-* [Youtube](https://www.youtube.com/watch?v=NXOU1L3nn9Q)
+* [https://www.youtube.com/watch?v=NXOU1L3nn9Q](https://www.youtube.com/watch?v=NXOU1L3nn9Q)
 
 
 ## Autor ✒️
