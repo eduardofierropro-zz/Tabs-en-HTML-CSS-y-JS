@@ -10,6 +10,9 @@ Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [https://www.youtube.com/watch?v=NXOU1L3nn9Q](https://www.youtube.com/watch?v=NXOU1L3nn9Q)
 
+## PDF con toda la info
+Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf) con el resto de módulos, resumen y teoría.
+
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 Es un código programado en directo para entretenimiento.
